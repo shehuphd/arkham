@@ -1,4 +1,4 @@
-# Fraud detection imbalance demo
+# Fraud detection imbalance demo (Machine learning)
 
 By Mo Shehu
 
