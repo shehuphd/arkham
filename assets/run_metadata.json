@@ -1,0 +1,13 @@
+{
+  "run_owner": "mo",
+  "timestamp_utc": "2026-01-18T20:37:30.126873Z",
+  "rows": 400,
+  "features": [
+    "leaf_length_cm",
+    "bark_texture_score",
+    "soil_ph",
+    "canopy_density"
+  ],
+  "target": "tree_type",
+  "data_source": "./data/trees.csv"
+}

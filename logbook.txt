@@ -1,0 +1,8 @@
+Forest mission logbook
+
+Entry 001
+Date (UTC): 2026-01-18
+Owner: mo
+Purpose: demo secure and compliant ML pipeline
+Change: created baseline training pipeline and governance artefacts
+Notes: secrets moved to .env; MLflow enabled for run tracking
